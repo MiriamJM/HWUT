@@ -64,6 +64,8 @@ namespace HWUT.Models
 
             // Create an element in the array 
             Ratings = new int[] { 5 };
+
+            Description = "";
         }
 
         public int AverageRating()
